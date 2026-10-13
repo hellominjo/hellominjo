@@ -1,7 +1,12 @@
-
-<img src="hellominjo-brand.svg"
-     alt="HELLOMINJO — IDEAS TO IMPACT"
-     width="380">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="hellominjo-brand-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="hellominjo-brand-light.svg">
+  <img src="hellominjo-brand-light.svg"
+       alt="HELLOMINJO — IDEAS TO IMPACT"
+       width="380">
+</picture>
 
 ### From Insight to Impact.
 
