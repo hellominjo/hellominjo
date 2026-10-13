@@ -1,7 +1,7 @@
 
-<img src="./assets/hellominjo-brand.svg"
+<img src="hellominjo-brand.svg"
      alt="HELLOMINJO — IDEAS TO IMPACT"
-     width="420">
+     width="380">
 
 ### From Insight to Impact.
 
@@ -12,36 +12,20 @@ Connecting People, Technology and Business.
 
 [hellominjo.net ↗](https://hellominjo.net)
 
----
-
-### 01 / About Me
-Product Strategy · AI & Data · Cloud Architecture
-
-
----
-
-### 02 / What I Do
-Cloud Migration · Observability · AI Products
-
-
----
-
-### 03 / Research & Interests
-AI Agents · EdTech · Learning Analytics
-
-
----
-### 04 / Research & Interests
-
-AI Agents · Learning Analytics ·
-Human-Centered AI · Product Innovation
+<p>
+  <a href="https://hellominjo.net">
+    Portfolio
+  </a>
+  &nbsp;&nbsp;
+  <a href=https://www.linkedin.com/in/hellominjo/">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:minjohello@gmail.com">
+    Email
+  </a>
+</p>
 
 ---
 
-### 05 / Connect
-
-[Portfolio ↗](https://hellominjo.net)  [LinkedIn ↗](#)  [Email ↗](#)
-
----
-
-People × Technology × Business → Impact
+<sub>People × Technology × Business → Impact</sub>
