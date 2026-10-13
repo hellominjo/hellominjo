@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="hellominjo-brand-dark.svg">
+          srcset="./hellominjo-brand-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="hellominjo-brand-light.svg">
-  <img src="hellominjo-brand-light.svg"
+          srcset="./hellominjo-brand-light.svg">
+  <img src="./hellominjo-brand-light.svg"
        alt="HELLOMINJO — IDEAS TO IMPACT"
        width="380">
 </picture>
