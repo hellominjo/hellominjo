@@ -1,13 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="./hellominjo-brand-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="./hellominjo-brand-light.svg">
-  <img src="./hellominjo-brand-light.svg"
-       alt="HELLOMINJO — IDEAS TO IMPACT"
-       width="380">
-</picture>
-
+<img src="./hellominjo-brand-light.svg#gh-dark-mode-only"
+       alt="HELLOMINJO — IDEAS TO IMPACT" width="380">
+<img src="./hellominjo-brand-light.svg#gh-light-mode-only"
+       alt="HELLOMINJO — IDEAS TO IMPACT" width="380">
+       
 ### From Insight to Impact.
 
 Connecting People, Technology and Business.
@@ -22,7 +17,7 @@ Connecting People, Technology and Business.
     Portfolio
   </a>
   &nbsp;&nbsp;
-  <a href=https://www.linkedin.com/in/hellominjo/">
+  <a href="https://www.linkedin.com/in/hellominjo/">
     LinkedIn
   </a>
   &nbsp;&nbsp;
