@@ -1,4 +1,4 @@
-<img src="./hellominjo-brand-light.svg#gh-dark-mode-only"
+<img src="./hellominjo-brand-dark.svg#gh-dark-mode-only"
        alt="HELLOMINJO — IDEAS TO IMPACT" width="380">
 <img src="./hellominjo-brand-light.svg#gh-light-mode-only"
        alt="HELLOMINJO — IDEAS TO IMPACT" width="380">
