@@ -22,9 +22,12 @@ Connecting People, Technology and Business.
   </a>
   &nbsp;&nbsp;
   <a href="mailto:minjohello@gmail.com">
-    Email
+    E-mail
   </a>
 </p>
+
+<sub>Labs : [HR-Analytics](https://hellominjo.github.io/hr-analytics-lab) · [ML-Programming](https://hellominjo.github.io/ml-programming-lab)  · 
+[AI Playground](https://hellominjo.github.io/ai-playground)</sub>
 
 ---
 
